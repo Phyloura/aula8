@@ -1,12 +1,14 @@
 [
     {
+        "id": 1,
         "nome": "Poção",
-        "qtd": 5,
-        "efeito": "Levitação"
+        "categoria": "Item mágico",
+        "quantidade": 3
     },
     {
+        "id": 2,
         "nome": "Espada",
-        "qtd": 1,
-        "efeito": "Aspecto Flamejante"
+        "categoria": "Arma branca",
+        "quantidade": 1
     }
 ]
