@@ -1,0 +1,12 @@
+[
+    {
+        "nome": "Poção",
+        "qtd": 5,
+        "efeito": "Levitação"
+    },
+    {
+        "nome": "Espada",
+        "qtd": 1,
+        "efeito": "Aspecto Flamejante"
+    }
+]
